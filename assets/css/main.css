@@ -1,3 +1,14 @@
+#accesorios{
+  height: 18em;
+  margin-top: 10%;
+  width: 100%;
+}
+#arrival{
+  height: 18em;
+  margin-top: 5%;
+  margin-left: 5%;
+  width: 100%;
+}
 #cliente{
   background-image: url("../images/client-bg.jpg");
   background-size: cover;
