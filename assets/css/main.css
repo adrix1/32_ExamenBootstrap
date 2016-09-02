@@ -9,8 +9,17 @@
   margin-left: 5%;
   width: 100%;
 }
+.articulos{
+  height: 15em;
+  width: 100%;
+}
 #cliente{
   background-image: url("../images/client-bg.jpg");
   background-size: cover;
   height: 15em;
+}
+.clientes{
+  width: 100%;
+  height: 4em;
+  margin-top: 40%;
 }
